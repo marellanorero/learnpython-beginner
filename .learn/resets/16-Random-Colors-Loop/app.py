@@ -18,17 +18,6 @@ def get_allStudentColors():
     example_color = get_color(1)
     students_array = []
     #your loop here
-    for i in range(10):
-        number = random.randint(0, 3)
-        if number == 0:
-            print('red')
-        elif number == 1:
-            print('yellow')
-        elif number == 2:
-            print('blue')
-        elif number == 3:
-            print('green')
-        else:
-            print('black')
-        
+
+
 print(get_allStudentColors())
