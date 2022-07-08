@@ -26,9 +26,8 @@ def get_allStudentColors():
             print('yellow')
         elif number == 2:
             print('blue')
-        elif number == 3:
-            print('green')
         else:
-            print('black')
+            print('green')
         
-print(get_allStudentColors())
+        
+get_allStudentColors()

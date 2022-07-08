@@ -1,6 +1,6 @@
 def addNumbers(a,b):
 	# This is the function body. Write your code here.
-	print(a + b)
+	return a + b
   
 
 # Do not change the code below
